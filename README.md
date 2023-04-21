@@ -26,7 +26,7 @@
 
 <div align="center">
   <img width="100px" src="https://otimize-edoc.s3.amazonaws.com/edoc_1475/logo_ipaussu.png?v=1668443774" alt="logo_pm_ipaussu">
-  <p>Atualment trabalhando na Prefeitura Municipal de Ipaussu.</p>
+  <p>Atualmente trabalhando na Prefeitura Municipal de Ipaussu.</p>
   <p>Suporte de TI</p>
 </div>
 
