@@ -44,9 +44,9 @@
 
 <div>
   <h3>Conhecimento em:</h3>
-  <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5136/5136972.png" alt="batch_icon">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-icon">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-icon">
+  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5136/5136972.png" alt="batch_icon">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-icon">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-icon">
   <!---
   <img width="40px" src="" alt="">
   --->
