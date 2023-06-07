@@ -21,15 +21,7 @@
     <img width="40px" src="https://img.icons8.com/color/256/facebook.png" alt="facebook_icon">
   </a>
 </div>
-
 <hr>
-<br>
-
-<div align="center">
-  <img width="100px" src="https://otimize-edoc.s3.amazonaws.com/edoc_1475/logo_ipaussu.png?v=1668443774" alt="logo_pm_ipaussu">
-  <p>Atualmente trabalhando na Prefeitura Municipal de Ipaussu.</p>
-  <p>Suporte de TI</p>
-</div>
 
 <br>
 
@@ -40,13 +32,9 @@
 </div>
 
 <br>
-<hr>
 
-<div>
-  <h3>Conhecimento em:</h3>
-  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5136/5136972.png" alt="batch_icon">
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-icon">
-  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-icon">
+<div align="center">
+</div>
   <!---
   <img width="40px" src="" alt="">
   --->
