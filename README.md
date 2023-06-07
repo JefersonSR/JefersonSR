@@ -34,6 +34,8 @@
 <br>
 
 <div align="center">
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-icon">
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows-icon">
 </div>
   <!---
   <img width="40px" src="" alt="">
